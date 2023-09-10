@@ -7,6 +7,6 @@ export default defineConfig({
   experimental: {
     viewTransitions: true,
   },
-  site: 'https://autojhonny.github.io',
+  site: 'https://lethaldfir.github.io',
   integrations: [tailwind(), compress()],
 });
