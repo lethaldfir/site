@@ -10,7 +10,11 @@ module.exports = {
       current: 'currentColor',
       transparent: 'transparent',
       white: '#ffffff',
-      primary: colors.stone,
+      blue: colors.blue,
+      green: colors.green,
+      yellow: colors.yellow,
+      indigo: colors.indigo,
+      gray: colors.stone,
       red:colors.red,
     },
     fontFamily: {
